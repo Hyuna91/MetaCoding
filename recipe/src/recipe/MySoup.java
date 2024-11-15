@@ -1,10 +1,10 @@
 package recipe;
 
-// Library ¸¸µé±â
+// Library ë§Œë“¤ê¸°
 public class MySoup {
 
-    void ±èÄ¡Âî°³() {
-        System.out.println("±èÄ¡Âî°³°¡ ¸¸µé¾îÁ³½À´Ï´Ù");
+    public void ê¹€ì¹˜ì°Œê°œ() {    // ë‹¤ë¥¸ íŒ¨í‚¤ì§€ì—ì„œ ì‚¬ìš©í•  ìˆ˜ ìˆê²Œ ì ‘ê·¼ì œì–´ì public
+        System.out.println("ê¹€ì¹˜ì°Œê°œê°€ ë§Œë“¤ì–´ì¡ŒìŠµë‹ˆë‹¤");
     }
 }
 
