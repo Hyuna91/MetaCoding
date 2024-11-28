@@ -27,7 +27,6 @@ public class ObjectEx01 {
         System.out.println(d1.name);
         System.out.println(c1.name);
 
-        // 같은 메모리 공간에 뜬 것만 다운캐스팅이 가능하다.
 //        Cat c2 = (Cat)o1; -- class Ex06.Dog cannot be cast to class Ex06.Cat
 
      }
